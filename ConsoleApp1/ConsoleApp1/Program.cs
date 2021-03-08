@@ -6,6 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            // Зміни в гілці ALFA
             Console.WriteLine("Hello World!");
         }
     }
