@@ -7,7 +7,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             // Зміни в гілці ALFA
-            Console.WriteLine("Hello World from ALFA!");
+            Console.WriteLine("Hello World from ALFA from IDE!");
         }
     }
 }
