@@ -6,7 +6,9 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World from browser!");
             Console.WriteLine("Hello World from IDE!");
+            //Конфлікт вирішено 09.03.2021
         }
     }
 }
